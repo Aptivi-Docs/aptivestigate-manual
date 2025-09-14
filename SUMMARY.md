@@ -9,6 +9,6 @@
 
 ***
 
-* [Report an issue](https://gitlab.com/aptivi/main/Aptivestigate/-/issues)
-* [Source code](https://gitlab.com/aptivi/main/Aptivestigate)
+* [Report an issue](https://github.com/Aptivi/Aptivestigate/issues/new)
+* [Source code](https://github.com/Aptivi/Aptivestigate)
 * [API Reference](https://aptivi.github.io/Aptivestigate/)
